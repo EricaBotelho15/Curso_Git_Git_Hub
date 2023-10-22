@@ -1,0 +1,22 @@
+git remote add origin https://github.com/EricaBotelho15/Curso_Git_Git_Hub.git
+
+
+git push -u origin main
+
+Comandos do Git Hub
+
+git init  - incializar
+
+git status -- ver o status
+
+git add . -- adicionar tudo
+
+git branch -- ver os branches que tem
+
+git commit -m "" -- commitar
+
+git push origin main -- pra mandar pro servidor
+
+git pull -- para atualizar
+
+git checkout main -- pra entrar em um branche
